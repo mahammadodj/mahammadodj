@@ -62,6 +62,5 @@ Strong background in:
 ## Contact
 
 - **Email:** mahammad.ojagzada@outlook.com  
-- **LinkedIn:** https://linkedin.com/in/muhammad-ojagzada  
-
----
+- **LinkedIn:** https://linkedin.com/in/muhammad-ojagzada
+  
