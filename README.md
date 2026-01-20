@@ -59,18 +59,6 @@ Strong background in:
 
 ---
 
-## GitHub Statistics
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahammadodj&layout=compact&hide_border=true" />
-</p>
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=mahammadodj&show_icons=true&hide_border=true" />
-</p>
-
----
-
 ## Contact
 
 - **Email:** mahammad.ojagzada@outlook.com  
